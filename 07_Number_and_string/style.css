@@ -1,0 +1,76 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+    }
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+    }
+
+#btn_0 {
+        color: rgb(248, 244, 244);
+    }
+
+#btn_1 {
+        color: rgb(248, 244, 244);
+    }
+#btn_2 {
+        color: rgb(248, 244, 244);
+    }
+#btn_3 {
+        color: rgb(248, 244, 244);
+    }
+#btn_4 {
+        color: rgb(248, 244, 244);
+    }
+#btn_5 {
+        color: rgb(248, 244, 244);
+    }
+#btn_6 {
+        color: rgb(248, 244, 244);
+    }
+#btn_7 {
+        color: rgb(248, 244, 244);
+    }
+#btn_8 {
+        color: rgb(248, 244, 244);
+    }
+#btn_9 {
+        color: rgb(248, 244, 244);
+    }
+#btn_0 {
+        color: rgb(248, 244, 244);
+    }
+#btn_mult {
+        color: rgb(248, 244, 244);
+    }
+#btn_def {
+        color: rgb(248, 244, 244);
+    }
+#btn_del {
+        color: rgb(248, 244, 244);
+    }
+#btn_root {
+        color: rgb(248, 244, 244);
+    }
+#btn_calc {
+        color: rgb(248, 244, 244);
+    }
+#btn_sum {
+        color: rgb(248, 244, 244);
+    }
+
+#btn_clr {
+        color: rgb(248, 244, 244);
+        background-color: crimson;
+    }
+
+.col {
+    background-color: rgb(57, 150, 236);
+    border-color: aliceblue;
+    }
+
+.card {
+    background-color: black;
+}
